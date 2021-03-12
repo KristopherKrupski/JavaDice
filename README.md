@@ -1,2 +1,2 @@
 # JavaDice
-A simple two dive game + GUI created through Java
+A simple two dice game + GUI created through Java
